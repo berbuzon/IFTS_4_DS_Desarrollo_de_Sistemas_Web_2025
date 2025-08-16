@@ -1,0 +1,12 @@
+# XAMPP y entornos
+.htaccess
+.env
+/vendor/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs y caché
+/logs/
+/tmp/
