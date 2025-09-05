@@ -1,10 +1,10 @@
 <?php
-// C:\xampp\htdocs\proyecto_prueba\config.php
+// C:\xampp\htdocs\proyecto_pruebalocalhost/IFTS_4_DS_Desarrollo_de_Sistemas_Web_2025\config.php
 
 define('DB_HOST', 'localhost');
-define('DB_PORT', 3306);
+define('DB_PORT', 3307);
 define('DB_USER', 'root');
-define('DB_PASS', 'admin'); // Usa tu contraseña real
+define('DB_PASS', ''); // Usa tu contraseña real
 define('DB_NAME', 'prueba');
 
 function conectarDB() {
